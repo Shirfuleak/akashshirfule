@@ -52,6 +52,7 @@ const Contact = () => {
             <h1 className='contactPageTitle'>Contact ME</h1>
             <span className='contactDesc'>Please fill out the following form </span>
             <form className='contactForm' ref={form} onSubmit={sendEmail}>
+              
                 <input type='text' placeholder='enter your name' className='name' name='your_name' required/>
                 <input type='email' placeholder='enter your email' className='email' name='your_email' required/>
                 <textarea name='message' rows='5' placeholder='enter your message' className='msg'  required></textarea>
