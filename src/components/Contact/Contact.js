@@ -52,9 +52,9 @@ const Contact = () => {
             <h1 className='contactPageTitle'>Contact ME</h1>
             <span className='contactDesc'>Please fill out the following form </span>
             <form className='contactForm' ref={form} onSubmit={sendEmail}>
-                <input type='text' placeholder='y0ur name' className='name' name='your_name'/>
-                <input type='email' placeholder='y0ur email' className='email' name='your_email'/>
-                <textarea name='message' rows='5' placeholder='your message' className='msg'  ></textarea>
+                <input type='text' placeholder='Enter Your Name' className='name' name='your_name'/>
+                <input type='email' placeholder='Enter Your Mail Address' className='email' name='your_email'/>
+                <textarea name='message' rows='5' placeholder='enter your message' className='msg'  ></textarea>
                 <button type='submit' className='submitBtn' value='send'>Submit</button>
                 <div className='links'>
                     <img src={facebook} alt=''  className='link'/>
