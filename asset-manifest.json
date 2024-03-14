@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akashshirfule/static/css/main.413f613c.css",
-    "main.js": "/akashshirfule/static/js/main.b9cf1954.js",
+    "main.js": "/akashshirfule/static/js/main.3d0126ae.js",
     "static/js/453.1407b060.chunk.js": "/akashshirfule/static/js/453.1407b060.chunk.js",
     "static/media/akash.jpg": "/akashshirfule/static/media/akash.31d02888b3f434a57dda.jpg",
     "static/media/porfolio6.png": "/akashshirfule/static/media/porfolio6.f41c7a6a7c5e8c08fb84.png",
@@ -21,11 +21,11 @@
     "static/media/menu.webp": "/akashshirfule/static/media/menu.a7fee3a0b9a7f38404f3.webp",
     "index.html": "/akashshirfule/index.html",
     "main.413f613c.css.map": "/akashshirfule/static/css/main.413f613c.css.map",
-    "main.b9cf1954.js.map": "/akashshirfule/static/js/main.b9cf1954.js.map",
+    "main.3d0126ae.js.map": "/akashshirfule/static/js/main.3d0126ae.js.map",
     "453.1407b060.chunk.js.map": "/akashshirfule/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.413f613c.css",
-    "static/js/main.b9cf1954.js"
+    "static/js/main.3d0126ae.js"
   ]
 }
