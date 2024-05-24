@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/akashshirfule/static/css/main.1473eeda.css",
-    "main.js": "/akashshirfule/static/js/main.91601373.js",
+    "main.js": "/akashshirfule/static/js/main.4eb4f71a.js",
     "static/js/453.1407b060.chunk.js": "/akashshirfule/static/js/453.1407b060.chunk.js",
-    "static/media/akash.jpg": "/akashshirfule/static/media/akash.31d02888b3f434a57dda.jpg",
     "static/media/portfolio2.png": "/akashshirfule/static/media/portfolio2.5b04884761da5b0357cd.png",
     "static/media/portfolio1.png": "/akashshirfule/static/media/portfolio1.dd016efb5627473adccc.png",
+    "static/media/akash2.jpg": "/akashshirfule/static/media/akash2.ad7fb7863f8641f20d3e.jpg",
     "static/media/Instagram_icon.png.webp": "/akashshirfule/static/media/Instagram_icon.png.9b8145eaf9e3c7c88d85.webp",
     "static/media/ak.jpg": "/akashshirfule/static/media/ak.2dcb4adab28a3a5fde00.jpg",
     "static/media/X_icon.png": "/akashshirfule/static/media/X_icon.98171861e5dcf55f4ada.png",
@@ -21,11 +21,11 @@
     "static/media/menu.webp": "/akashshirfule/static/media/menu.a7fee3a0b9a7f38404f3.webp",
     "index.html": "/akashshirfule/index.html",
     "main.1473eeda.css.map": "/akashshirfule/static/css/main.1473eeda.css.map",
-    "main.91601373.js.map": "/akashshirfule/static/js/main.91601373.js.map",
+    "main.4eb4f71a.js.map": "/akashshirfule/static/js/main.4eb4f71a.js.map",
     "453.1407b060.chunk.js.map": "/akashshirfule/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1473eeda.css",
-    "static/js/main.91601373.js"
+    "static/js/main.4eb4f71a.js"
   ]
 }
