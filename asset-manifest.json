@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/akashshirfule/static/css/main.44af5903.css",
-    "main.js": "/akashshirfule/static/js/main.e3de0075.js",
+    "main.css": "/akashshirfule/static/css/main.1473eeda.css",
+    "main.js": "/akashshirfule/static/js/main.91601373.js",
     "static/js/453.1407b060.chunk.js": "/akashshirfule/static/js/453.1407b060.chunk.js",
     "static/media/akash.jpg": "/akashshirfule/static/media/akash.31d02888b3f434a57dda.jpg",
     "static/media/portfolio2.png": "/akashshirfule/static/media/portfolio2.5b04884761da5b0357cd.png",
     "static/media/portfolio1.png": "/akashshirfule/static/media/portfolio1.dd016efb5627473adccc.png",
     "static/media/Instagram_icon.png.webp": "/akashshirfule/static/media/Instagram_icon.png.9b8145eaf9e3c7c88d85.webp",
     "static/media/ak.jpg": "/akashshirfule/static/media/ak.2dcb4adab28a3a5fde00.jpg",
-    "static/media/uidesign.jpg": "/akashshirfule/static/media/uidesign.e8734cf074b9ec5a185e.jpg",
     "static/media/X_icon.png": "/akashshirfule/static/media/X_icon.98171861e5dcf55f4ada.png",
     "static/media/portfolio3.png": "/akashshirfule/static/media/portfolio3.fa2657c1a0e69b59c520.png",
     "static/media/portfolio4.png": "/akashshirfule/static/media/portfolio4.f08d5f76bfaf12fab07e.png",
@@ -17,15 +16,16 @@
     "static/media/portfolio5.png": "/akashshirfule/static/media/portfolio5.a99dfdc103a9ab3490d4.png",
     "static/media/client1.webp": "/akashshirfule/static/media/client1.3ea4b3081563fd4d14f5.webp",
     "static/media/facebook.webp": "/akashshirfule/static/media/facebook.c0e68ef2deb5592af4c5.webp",
+    "static/media/reactjsicon.png": "/akashshirfule/static/media/reactjsicon.2c3be408b49f1b1be4bb.png",
     "static/media/contactme.jpg": "/akashshirfule/static/media/contactme.56770ba93670f3d017b8.jpg",
     "static/media/menu.webp": "/akashshirfule/static/media/menu.a7fee3a0b9a7f38404f3.webp",
     "index.html": "/akashshirfule/index.html",
-    "main.44af5903.css.map": "/akashshirfule/static/css/main.44af5903.css.map",
-    "main.e3de0075.js.map": "/akashshirfule/static/js/main.e3de0075.js.map",
+    "main.1473eeda.css.map": "/akashshirfule/static/css/main.1473eeda.css.map",
+    "main.91601373.js.map": "/akashshirfule/static/js/main.91601373.js.map",
     "453.1407b060.chunk.js.map": "/akashshirfule/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44af5903.css",
-    "static/js/main.e3de0075.js"
+    "static/css/main.1473eeda.css",
+    "static/js/main.91601373.js"
   ]
 }
