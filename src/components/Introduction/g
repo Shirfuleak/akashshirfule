@@ -1,0 +1,23 @@
+.bg{
+    position: absolute;
+    /* top: -4rem; */
+    top: 4rem;
+    z-index: -1;
+    right: 49vh;
+    /* right: 48vh; */
+    object-fit: cover;
+    height: 100vh;
+    /* margin-top: 20rem; */
+}
+
+.bg{
+    position: absolute;
+    /* top: -4rem; */
+    top: 2rem;
+    z-index: -1;
+    right: 26vh;
+    right: 49vh;
+    object-fit: cover;
+    height: 66vh;
+    margin-top: 10rem;
+    }
