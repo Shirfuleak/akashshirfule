@@ -39,10 +39,10 @@ const Contact = () => {
         <div id='clients'>
             <h1 className='contactPageTitle'>My Clients</h1>
             <p className='clientDesc'>
-                fgdbhjbgjksgklasjgfldjahiojhlkfjklhlkmjkklnbhgijok;jlhgcfhjklhgjkljhgfhjuikoplokijuhyghujiop[lokijhughujiko]
+                I have worked with following companies
             </p>
             <div className='clientImgs'>
-                <img src={client1} alt=''  className='clientImg'/>
+                {/* <img src={client1} alt=''  className='clientImg'/> */}
                 <img src={client2} alt=''  className='clientImg'/>
                 <img src={client3} alt=''  className='clientImg'/>
                 <img src={client4} alt=''  className='clientImg'/>

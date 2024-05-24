@@ -11,7 +11,8 @@ const Work = () => {
   return (
    <section id='works'>
     <h2 className='worksTitle'>My portfolio</h2>
-    <span className='workDesc'>i take prode of paying attention</span>
+    {/* <span className='workDesc'>i take prode of paying attention</span> */}
+    <span className='workDesc'>These are the projects I have worked on in my previous orgnizations</span>
     <div className='worksImgs'>
         <img className='worksImg' alt='' src={portfolio1}/>
         <img className='worksImg' alt='' src={portfolio2}/>
